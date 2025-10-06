@@ -1,4 +1,4 @@
 # Calculator
-was my first ever real project from 2021?
+was my first ever real project from 2019?
 
-using google and online forums and alot of trial and error but I figured it out.
+Utalized Google and online Forums and any documentation i could get my hands on  
